@@ -51,3 +51,29 @@ Never worked with Git. I can't say that it came easily to me, but...
 
 </p>
 </details>
+
+## Git Collaboration
+
+<details><summary>my progress is here...</summary>
+<p>
+
+- [x] **1. Тижні 3 і 4 курсу Introduction to Git and GitHub**
+
+* A lot of new things. I figured out how to make a fork, a pool request on **GitHub**. Finally...:upside_down_face:
+* Most liked interacting with **GitHub** via **Git** (`clone`, `fetch`, `pull`, `push`).
+* I'm trying to get used to using Git when working with projects: fix changes sequentially, make rollbacks, move through history.
+
+![Introduction to Git and GitHub](https://github.com/tanyakostash/kottans-frontend/blob/89d1456d74b72ca03d9191ee11d638b4684c7f56/task_git_collaboration/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(473).png)
+  
+![Introduction to Git and GitHub](https://github.com/tanyakostash/kottans-frontend/blob/89d1456d74b72ca03d9191ee11d638b4684c7f56/task_git_collaboration/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(474).png)
+
+- [x] **2. learngitbranching.js.org**
+  
+* Graphic representation of branches - TOP. Circles and arrows that build branches allow you to perform tasks intuitively. I have worked in many teams and I want more...
+* `сherry-pick` - a thing that allows you to organize everything.
+* I want to reset my progress and go through the levels again.:wink:
+
+![learngitbranching.js.org](https://github.com/tanyakostash/kottans-frontend/blob/89d1456d74b72ca03d9191ee11d638b4684c7f56/task_git_collaboration/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20(505).png)
+  
+</p>
+</details>
